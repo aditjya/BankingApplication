@@ -14,19 +14,17 @@
 <br>3.Money WithDrawl</br>
 <br>4.Deleting a User</br>
 
-
-
 ## Request format
 
 {<br>
-    <br>"accountHolderName": "Adithya",</br>
+    <br>"accountHolderName": "Parasuram",</br>
     <br>"balance": 100000</br>
 }
 
 ## Response Format 
 {<br>
     <br>"id": 2,</br>
-    <br>"accountHolderName": "Adithya",</br>
+    <br>"accountHolderName": "Parasuram",</br>
     <br>"balance": 100000.0</br>
 }</br>
 
