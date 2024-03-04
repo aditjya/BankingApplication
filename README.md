@@ -7,8 +7,8 @@
 - Java
 - Postman for testing
 
+<h2>A simple banking application where i have created multiple endpoints</h2>
 
-<h2>A simple banking application where i have created multiple endpoints</h2><br>
 <br>1.Creating User</br>
 <br>2.Depositing the Money</br>
 <br>3.Money WithDrawl</br>
@@ -18,17 +18,17 @@
 
 ## Request format
 
-{
-    "accountHolderName": "Adithya",
-    "balance": 100000
+{<br>
+    <br>"accountHolderName": "Adithya",</br>
+    <br>"balance": 100000</br>
 }
 
 ## Response Format 
-{
-    "id": 2,
-    "accountHolderName": "Adithya",
-    "balance": 100000.0
-}
+{<br>
+    <br>"id": 2,</br>
+    <br>"accountHolderName": "Adithya",</br>
+    <br>"balance": 100000.0</br>
+}</br>
 
 ### Prerequisites
 
