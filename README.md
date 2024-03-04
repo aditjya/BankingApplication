@@ -1,8 +1,6 @@
-# <Banking Application api>
+ <h1>Banking Application api</h1>
 
-## Description
-
-<h1>A simple banking application where i have created multiple endpoints</h1><br>
+<h2>A simple banking application where i have created multiple endpoints</h2><br>
 <br>1.Creating User</br>
 <br>2.Depositing the Money</br>
 <br>3.Money WithDrawl</br>
