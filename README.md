@@ -1,18 +1,20 @@
  <h1>Banking Application api</h1>
 
-<h2>A simple banking application where i have created multiple endpoints</h2><br>
-<br>1.Creating User</br>
-<br>2.Depositing the Money</br>
-<br>3.Money WithDrawl</br>
-<br>4.Deleting a User</br>
->
-
-## Technologies Used
+ ## Technologies Used
 
 - Spring Boot
 - MySQL
 - Java
 - Postman for testing
+
+
+<h2>A simple banking application where i have created multiple endpoints</h2><br>
+<br>1.Creating User</br>
+<br>2.Depositing the Money</br>
+<br>3.Money WithDrawl</br>
+<br>4.Deleting a User</br>
+
+
 
 ## Request format
 
